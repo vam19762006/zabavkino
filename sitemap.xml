@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://zabavkino.ru/sitemap.xml/home1.html</loc>
-	</url>
-	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/doma.html</loc>
 	</url>
 	<url>
@@ -22,5 +19,17 @@
 	</url>
 	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/index.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/1.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/2.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/3.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/4.html</loc>
 	</url>
 </urlset>
