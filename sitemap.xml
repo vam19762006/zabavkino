@@ -30,12 +30,6 @@
 		<loc>https://zabavkino.ru/sitemap.xml/5.html</loc>
 	</url>
 	<url>
-		<loc>https://zabavkino.ru/sitemap.xml/6.html</loc>
-	</url>
-	<url>
-		<loc>https://zabavkino.ru/sitemap.xml/7.html</loc>
-	</url>
-	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/8.html</loc>
 	</url>
 	<url>
@@ -76,5 +70,11 @@
 	</url>
 	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/blog4.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/6.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/7.html</loc>
 	</url>
 </urlset>
