@@ -6,13 +6,7 @@
 		<loc>https://zabavkino.ru/sitemap.xml/doma1.html</loc>
 	</url>
 	<url>
-		<loc>https://zabavkino.ru/sitemap.xml/stat1.html</loc>
-	</url>
-	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/blog.html</loc>
-	</url>
-	<url>
-		<loc>https://zabavkino.ru/sitemap.xml/blog1.html</loc>
 	</url>
 	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/stati.html</loc>
@@ -52,5 +46,35 @@
 	</url>
 	<url>
 		<loc>https://zabavkino.ru/sitemap.xml/doma2.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/doma3.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/doma4.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/stati1.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/stati2.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/stati3.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/stati4.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/blog1.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/blog2.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/blog3.html</loc>
+	</url>
+	<url>
+		<loc>https://zabavkino.ru/sitemap.xml/blog4.html</loc>
 	</url>
 </urlset>
